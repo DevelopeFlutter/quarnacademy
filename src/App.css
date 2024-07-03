@@ -1,0 +1,32 @@
+.App {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.header, .services, .contact, .specialities {
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  background: linear-gradient(45deg, #f3ec78, #af4261);
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.trial {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.title {
+  margin: 20px 0;
+}
+
+.admission {
+  font-size: 18px;
+  font-weight: bold;
+}
